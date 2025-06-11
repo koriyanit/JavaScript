@@ -3,7 +3,7 @@
 console.log(3+3);// readbilty is low
 
 console.log(3 == 3)
-// numb er =. 2 to power 53
+// number range decided by Node=. 2 to power 53
 // bigint =>
 // string =? ""
 // boolean =>
