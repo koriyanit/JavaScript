@@ -17,7 +17,9 @@ const addTwo = (n1,n2) => {
     return n1+n2
 }
 // implicit
-const addonw =(n1, n2) => n1+n2
+const addone =(n1, n2) => n1+n2
 
 console.log(addTwo(1,2))
 console.log(addone(1,2))
+
+
